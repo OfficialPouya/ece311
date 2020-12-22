@@ -1,6 +1,7 @@
 # ECE-311
 This is my personal repo for ECE-311
 
+https://ece.illinois.edu/academics/courses/ece311
 
 
 ## Scores
