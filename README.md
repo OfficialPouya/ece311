@@ -38,6 +38,7 @@ Make sure you fill out comments to avoid losing easy points
 
 # Lab 7
 35.5/36
+
 2d) Incorrect plot for down then up (-0.5)
 
 # Lab Final
